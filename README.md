@@ -41,12 +41,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=abdoaldoushy2009&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/abdoaldoushy2009/abdoaldoushy2009/output/snake.svg" alt="Snake animation" />
 
+###
 ###
 
 ### ✍️ Random Dev Quote
