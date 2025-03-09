@@ -56,9 +56,15 @@
 ## 💰 Support Me
 
 <div align="center">
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abdo_aldoushy)<br>
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
-</div>](https://ko-fi.com/abdo_aldoushy)
+  <a href="https://buymeacoffee.com/abdo_aldoushy" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  <br>
+  <a href="https://ko-fi.com/abdo_aldoushy" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
+  </a>
+</div>
+
 ---
 
 ### ✍️ Random Dev Quote
