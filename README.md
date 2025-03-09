@@ -88,9 +88,8 @@
 
 ---
 
-## 🎮 Pac-Man Themed Contribution Graph
+<br clear="both">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdoaldoushy2009/your-repo/main/path-to-your-image.png" alt="Pac-Man GitHub Contribution Graph">
-</p>
+<img src="https://raw.githubusercontent.com/abdoaldoushy2009/abdoaldoushy2009/output/snake.svg" alt="Snake animation" />
 
+###
