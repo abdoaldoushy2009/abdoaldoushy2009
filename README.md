@@ -1,9 +1,53 @@
- # 💫 About Me:
-👋 Hey there, I'm Abdo!<br>🚀 Aspiring Developer | Cybersecurity Enthusiast | AI Learner<br><br>👨‍💻 About Me<br>🎓 Student at Assiut Official Language School<br>🔥 Passionate about Cybersecurity, AI, and Software Development<br>🏆 Constantly improving my skills in Python, JavaScript, and Linux<br>🎯 Open to collaborating on innovative projects and contributing to open-source<br>🚀 Skills & Technologies<br>🔹 Programming Languages: Python 🐍 | JavaScript ⚡ | Bash 🖥️<br>🔹 Cybersecurity: Linux Security 🛡️ | Networking 🌐 | Ethical Hacking 🔐<br>🔹 Development Tools: Git 🌀 | GitHub 🏆 | Docker 🐳 | VS Code 💻<br>🔹 AI & ML: Machine Learning 🤖 | Deep Learning 🧠<br><br>📊 GitHub Stats<br><br><br>📫 Connect With Me
+## 💫 About Me
 
+### 👋 Hey there, I'm Abdo!
+🚀 Aspiring Developer | Cybersecurity Enthusiast | AI Learner
 
+---
 
-## 🌐🌐 Connect with me  
+### 👨‍💻 About Me
+- 🎓 **Student at Assiut Official Language School**
+- 🔥 **Passionate about Cybersecurity, AI, and Software Development**
+- 🏆 **Constantly improving my skills in Python, JavaScript, and Linux**
+- 🎯 **Open to collaborating on innovative projects and contributing to open-source**
+
+---
+
+## 🚀 Skills & Technologies
+
+### 🔹 Programming Languages:
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### 🔹 Cybersecurity:
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-%2300C7B7.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-%231877F2.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+### 🔹 Development Tools:
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🔹 AI & ML:
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2300A4EF.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=abdoaldoushy2009&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoaldoushy2009&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=abdoaldoushy2009&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-contributor-stats.vercel.app/api?username=abdoaldoushy2009&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://facebook.com/abdoaldoushy" target="_blank">
@@ -21,38 +65,23 @@
   <a href="https://tiktok.com/@abdoaldoushy" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://x.com/abdoaldoushy" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)"/>
-  </a>
   <a href="mailto:abdoaldoushy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdoaldoushy2009&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdoaldoushy2009&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoaldoushy2009&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💰 Support Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdoaldoushy2009&theme=default&no-frame=true&no-bg=false&margin-w=4)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abdo_aldoushy)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abdo_aldoushy)
 
-
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdoaldoushy2009&limit=5&theme=default&combine_all_yearly_contributions=true)
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=abdoaldoushy2009&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/abdo_aldoushy?new=1) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/abdo_aldoushy) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
