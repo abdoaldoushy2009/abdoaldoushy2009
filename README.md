@@ -88,7 +88,8 @@
 
 ---
 
-<br clear="both">
+###
+
 
 <img src="https://raw.githubusercontent.com/abdoaldoushy2009/abdoaldoushy2009/output/snake.svg" alt="Snake animation" />
 
