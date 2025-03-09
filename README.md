@@ -1,6 +1,6 @@
  ## 💫 About Me
 
-👋 Hey there, I'm Abdo!<br>🚀 Aspiring Developer | Cybersecurity Enthusiast | AI Learner<br><br>
+👋 Hey there, I'm Abdalrahman Aldoushy!<br>🚀 Aspiring Developer | Cybersecurity Enthusiast | AI Learner<br><br>
 
 👨‍💻 **About Me**<br>
 🎂 I'm 15 years old 
@@ -72,25 +72,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=abdoaldoushy2009&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💫 About Me
-
-👋 Hey there, I'm Abdo!<br>🚀 Aspiring Developer | Cybersecurity Enthusiast | AI Learner<br><br>
-
-👨‍💻 **About Me**<br>
-🎂 I'm 15 years old  
-🇪🇬 I'm from Egypt  
-🎓 Student at Assiut Covernmental Language School<br>
-🔥 Passionate about Cybersecurity, AI, and Software Development<br>
-🏆 Constantly improving my skills in Python, JavaScript, and Linux<br>
-🎯 Open to collaborating on innovative projects and contributing to open-source<br><br>
-
----
-
-###
 
 
-<img src="https://raw.githubusercontent.com/abdoaldoushy2009/abdoaldoushy2009/output/snake.svg" alt="Snake animation" />
-
-###
