@@ -83,5 +83,67 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+import pygame
+import random
+
+# تهيئة pygame
+pygame.init()
+
+# إعدادات اللعبة
+WIDTH, HEIGHT = 600, 400
+BLOCK_SIZE = 20
+WHITE, GREEN, RED, BLACK = (255, 255, 255), (0, 255, 0), (255, 0, 0), (0, 0, 0)
+
+# شاشة العرض
+screen = pygame.display.set_mode((WIDTH, HEIGHT))
+pygame.display.set_caption("Snake Game")
+
+# الثعبان والطعام
+snake = [(100, 100), (90, 100), (80, 100)]
+snake_dir = (BLOCK_SIZE, 0)
+food = (random.randint(0, WIDTH // BLOCK_SIZE - 1) * BLOCK_SIZE, 
+        random.randint(0, HEIGHT // BLOCK_SIZE - 1) * BLOCK_SIZE)
+
+clock = pygame.time.Clock()
+
+# الحلقة الرئيسية للعبة
+running = True
+while running:
+    screen.fill(BLACK)
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+        elif event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_UP and snake_dir != (0, BLOCK_SIZE):
+                snake_dir = (0, -BLOCK_SIZE)
+            elif event.key == pygame.K_DOWN and snake_dir != (0, -BLOCK_SIZE):
+                snake_dir = (0, BLOCK_SIZE)
+            elif event.key == pygame.K_LEFT and snake_dir != (BLOCK_SIZE, 0):
+                snake_dir = (-BLOCK_SIZE, 0)
+            elif event.key == pygame.K_RIGHT and snake_dir != (-BLOCK_SIZE, 0):
+                snake_dir = (BLOCK_SIZE, 0)
+
+    # تحريك الثعبان
+    new_head = (snake[0][0] + snake_dir[0], snake[0][1] + snake_dir[1])
+    if new_head in snake or not (0 <= new_head[0] < WIDTH and 0 <= new_head[1] < HEIGHT):
+        running = False  # نهاية اللعبة
+    else:
+        snake.insert(0, new_head)
+        if new_head == food:
+            food = (random.randint(0, WIDTH // BLOCK_SIZE - 1) * BLOCK_SIZE, 
+                    random.randint(0, HEIGHT // BLOCK_SIZE - 1) * BLOCK_SIZE)
+        else:
+            snake.pop()
+
+    # رسم الثعبان والطعام
+    for block in snake:
+        pygame.draw.rect(screen, GREEN, (*block, BLOCK_SIZE, BLOCK_SIZE))
+    pygame.draw.rect(screen, RED, (*food, BLOCK_SIZE, BLOCK_SIZE))
+
+    pygame.display.flip()
+    clock.tick(10)
+
+pygame.quit()
+
 
 [![](https://visitcount.itsvg.in/api?id=abdoaldoushy2009&icon=0&color=0)](https://visitcount.itsvg.in)
