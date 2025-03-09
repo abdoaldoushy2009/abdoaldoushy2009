@@ -91,6 +91,6 @@
 ## 🎮 Pac-Man Themed Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-your-image.png" alt="Pac-Man GitHub Contribution Graph">
+  <img src="https://raw.githubusercontent.com/abdoaldoushy2009/your-repo/main/path-to-your-image.png" alt="Pac-Man GitHub Contribution Graph">
 </p>
 
