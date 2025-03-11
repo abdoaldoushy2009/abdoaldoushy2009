@@ -3,8 +3,8 @@
 👋 Hey there, I'm Abdalrahman Aldoushy!<br>🚀 Aspiring Developer | Cybersecurity Enthusiast | AI Learner<br><br>
 
 👨‍💻 **About Me**<br>
-🎂 I'm 15 years old 
-🇪🇬 I'm from Egypt 
+🎂 I'm 15 years old <br>
+🇪🇬 I'm from Egypt <br>
 🎓 Student at Assiut Covernmental Language School<br>
 🔥 Passionate about Cybersecurity, AI, and Software Development<br>
 🏆 Constantly improving my skills in Python, JavaScript, and Linux<br>
